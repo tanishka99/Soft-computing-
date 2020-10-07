@@ -1,1 +1,1 @@
-# Soft-computing-
+# Soft-computing
